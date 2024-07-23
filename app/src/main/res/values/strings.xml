@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adicionar Produtos</string>
+
+    <string name="product_general_information">Informação geral do produto:</string>
+    <string name="name">Nome</string>
+    <string name="category">Categoria</string>
+    <string name="product_description_optional">Descrição do produto (opcional)</string>
+    <string name="price">Preço</string>
+    <string name="offer_percentage_optional">Porcentagem de oferta (opcional)</string>
+    <string name="product_details">Detalhes do produto:</string>
+    <string name="sizes_optional_use_between_each_new_size">Tamanhos (use ,  para separar os tamanhos)</string>
+    <string name="color">Cores</string>
+    <string name="images">Imagens</string>
+    <string name="add_product">Adicionar produto</string>
+</resources>
